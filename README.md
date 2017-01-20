@@ -1,2 +1,3 @@
 # hello-world
-Test repository for learning how to use github
+
+This is a test of the branching feature of github
